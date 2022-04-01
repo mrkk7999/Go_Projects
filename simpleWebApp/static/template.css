@@ -1,0 +1,19 @@
+body{
+    min-height: 150%;
+    background-image: url("/static/chatrapati.png");
+    background-blend-mode: overlay;
+    background-size: cover;
+}
+
+.Chatrapati{
+    font-family: "Sege UI",tahoma;
+    font-size: 2rem;
+    color: lightgreen;
+}
+
+.center{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
